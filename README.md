@@ -18,6 +18,10 @@ Com o "Partilha pra mim", o Cliente meuBMG consegue gerenciar suas contas mensai
 - Compartilhamento de "Extratos"
 - Integração com a Duda, IA da BMG
 
+### Screenshots (Telas)
+<img src="https://github.com/leohmoraes/compartilha/blob/patch-1/layout/EXTRATO%20DO%20GRUPO.png?raw=true">
+<a href="layout">Ver todas as telas</a>
+
 ### 🤝 Proposta de Valor
 A funcionalidade *Partilha pra mim* foi desenvolvida em resposta ao desafio proposto pela BMG de apoiar o planejamento doméstico, baseado nos seguintes pilares:<br /><br />
 PARA O CLIENTE
@@ -39,6 +43,7 @@ PARA O CLIENTE
  ### ⚙ Tecnologias
  - *[Flutter](https://flutter.dev/)* 
  - *[GraphQL](https://graphql.org/)*
+ 
  
  ## 💪 Time
   - Daniel Leite (Designer) - Manaus/AM - [LinkedIn](https://www.linkedin.com/in/daniel-leite-aa17b843/) . [Behance](https://www.behance.net/danielrodrigo)
